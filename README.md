@@ -11,12 +11,12 @@ DuckBot is a Telegram bot that can perform several tasks, including sending wall
 4. Copy the bot token and paste it in the `config.py` file
 
 ### Features
-/start and /help commands to greet and guide users on how to use the bot.
-/image command to return a random wallpaper using the Unsplash API.
-/cat command to get a random cat image using the Cat API.
-/duck command to get a random duck image using the Random-d.uk API.
-Send any image to convert it into desired ratios with black borders.
-/yt command to download YouTube videos as audio.
+- /start and /help commands to greet and guide users on how to use the bot.
+- /image command to return a random wallpaper using the Unsplash API.
+- /cat command to get a random cat image using the Cat API.
+- /duck command to get a random duck image using the Random-d.uk API.
+- Send any image to convert it into desired ratios with black borders.
+- /yt command to download YouTube videos as audio.
 
 ### Image Resizing
 
